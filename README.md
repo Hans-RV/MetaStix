@@ -9,9 +9,21 @@ MetaStix is a **Web3 platform** that rewards users with **NFTs** for completing 
 - **Engaging UI**: Cyberpunk-inspired design with neon aesthetics.
 
 ## ⚙️ Tech Stack  
-- **Smart Contracts:** Solidity (Remix IDE)  
-- **Frontend & Backend:** V0 by Vercel  
-- **Blockchain:** EduChain Network (via MetaMask)  
+- **Smart Contracts**: Solidity (Remix IDE)
+### Frontend
+- **Framework:** [Next.js](https://nextjs.org/) (React-based)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Language:** TypeScript
+- **State Management:** Context API / Hooks
+- **UI Components:** Custom-built React components
+- **Additional Tools:** PostCSS, ESLint
+
+### Backend
+- **Backend Framework:** Next.js API Routes (Serverless Functions)
+- **Runtime Environment:** Node.js
+- **Authentication:** MetaMask (for user login)
+- **NFT Minting (if applicable):** Blockchain integration for NFT-based event sponsorships
+
 
 ## 🔧 Setup & Installation  
 1. Clone the repository:  
