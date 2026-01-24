@@ -74,7 +74,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the **MIT License**.  
 
 ## 📞 Contact  
-For any queries or support, reach out via:  
+For any queries or support, reach out via: hansrajvats.iem@gmail.com
 - **GitHub Issues**: Open an issue in this repository.  
 
 Happy Learning & Minting! 🚀
